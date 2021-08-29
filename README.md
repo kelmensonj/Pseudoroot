@@ -5,4 +5,6 @@ Pseudoroot is an alternative grow media for hydroponics most comparable to the r
 
 ![alt text](https://github.com/kelmensonj/Pseudoroot/workflowPseudorootPNG0001.png)
 
+![alt text](https://github.com/kelmensonj/Pseudoroot/blob/main/workflowPseudorootPNG0001.png?raw=true)
+
 
