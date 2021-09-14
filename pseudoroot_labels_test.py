@@ -1,4 +1,8 @@
-# code source for drawing and picture upload: https://github.com/amine0110/draw-on-an-image-tkinter/blob/main/main.py
+# code source for drawing and loading the picture: https://github.com/amine0110/draw-on-an-image-tkinter/blob/main/main.py
+
+#Just a little demo. For now if you want to try it out you'll want to have soem png's in the same directory as the script, as well as a png named 'Your_img.png'
+#which will serve as the default. Then by clicking and dragging the mouse on the picture you can annotate an image. Then click upload, which will eventually
+#trigger logic that uploads your annotated image to the cloud for machine learning
 
 from tkinter import *
 from PIL import Image, ImageTk
