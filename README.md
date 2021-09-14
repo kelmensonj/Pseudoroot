@@ -5,4 +5,8 @@ Pseudoroot is intended as the first data driven grow media for decentralized agr
 
 ![alt text](https://github.com/kelmensonj/Pseudoroot/blob/main/workflowPseudorootPNG0001.png?raw=true)
 
+Below is a very early version (pseudocode) of what the crowdsource app might look like. The red lines will be annotations - so you can upload pictures of Pseudoroot in action along with label data in order to build a dataset labelled for where string is. Very early version.
+
+![alt-text](https://github.com/kelmensonj/Pseudoroot/blob/main/pseudoroot_annote.gif)
+
 
